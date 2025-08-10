@@ -246,7 +246,7 @@ The original Dbias has about 78% G-AUC score. Threshold used here for binary cla
 - "Those people don't belong here." → Prediction Score: 0.6101 → Biased
 - "Only the elite benefit from the current system." → Prediction Score: 0.6692 → Biased
 
-#### BERT Embeddings → Transformer Based Model (Multiclass Classification)
+#### BERT Embeddings → DEEP NN Model (referred as Transformer in the document) (Multiclass Classification)
 
 ```python
 model = Sequential([
